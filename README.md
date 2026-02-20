@@ -45,9 +45,9 @@ start: Feb  2012 End: Ag  2013
 
 Tipo de proyecto: Investigación y desarrollo (apoyo para formación doctoral otorgado mediante la convocatoria formacion en extranjero 568 de 2012)
 
-Start: Dic  2014 End: Octubre  2018 Duración 
-Resumen
-Desarrollo de un sistema de analisis de marcha para apoyo biomédico y/o paramédico La propuesta considera un 
+Start: Dic  2014 End: Octubre  2018 
 
-## evaluator
+****************************************
+
+## Evaluator
 VALORACIÓN AUTOMÁTICA DEL ANCHO DE PASO DE UNA PERSONA EN EL CONTEXTO DEL EXAMEN DE FUNCIÓN MOTORA POMA-G
