@@ -15,8 +15,7 @@ Scientific Articles
 |ANÁLISIS BIOMECÁNICO DE LA  | https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=YAOXxnMAAAAJ&citation_for_view=YAOXxnMAAAAJ:UeHWp8X0CEIC |
 |  Análisis armónico en la restauración de imágenes afectadas por desenfoque (Blur)-Comparación mediante métricas | https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=YAOXxnMAAAAJ&citation_for_view=YAOXxnMAAAAJ:u-x6o8ySG0sC |
 |  Análisis armónico en la restauración de imágenes afectadas por desenfoque-Comparación mediante métricas | https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=YAOXxnMAAAAJ&citation_for_view=YAOXxnMAAAAJ:zYLM7Y9cAGgC |
-|  	
-HERRAMIENTA PARA EL ANALISIS DE LA CINEMATICA DEL MIEMBRO SUPERIOR EN EL LEVANTAMIENTO DE PESOS SOBRE EL HOMBRO | https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=YAOXxnMAAAAJ&citation_for_view=YAOXxnMAAAAJ:qjMakFHDy7sC |
+| HERRAMIENTA PARA EL ANALISIS DE LA CINEMATICA DEL MIEMBRO SUPERIOR EN EL LEVANTAMIENTO DE PESOS SOBRE EL HOMBRO | https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=YAOXxnMAAAAJ&citation_for_view=YAOXxnMAAAAJ:qjMakFHDy7sC |
 
 
 public video bases
@@ -30,16 +29,22 @@ public video bases
 |   | https://youtu.be/0yV3oTf2-Yc |
 
 
+
 # Patents and research activities
 
-Tipo de proyecto: Investigación, desarrollo e Innovación (consolidación interna de grupos de investigación UIS con apoyo externo por parte de Sinergia Vital SAS) 
+
 
 ## DISEÑO DE UN SISTEMA AUTÓNOMO DE ANÁLISIS DE LA POSTURA SEDENTE ORIENTADO A DIAGNOSTICO Y SALUD OCUPACIONAL
+Tipo de proyecto: Investigación, desarrollo e Innovación (consolidación interna de grupos de investigación UIS con apoyo externo por parte de Sinergia Vital SAS) 
+
 start: Feb  2012 End: Ag  2013 
 
-Tipo de proyecto: Investigación y desarrollo (apoyo para formación doctoral otorgado mediante la convocatoria 568 de 2012)
+
 
 ## DISEÑO DE UN SISTEMA DE ANÁLISIS DE MARCHA ORIENTADO A DIAGNOSTICO MEDICO
+
+Tipo de proyecto: Investigación y desarrollo (apoyo para formación doctoral otorgado mediante la convocatoria formacion en extranjero 568 de 2012)
+
 Start: Dic  2014 End: Octubre  2018 Duración 
 Resumen
 Desarrollo de un sistema de analisis de marcha para apoyo biomédico y/o paramédico La propuesta considera un 
